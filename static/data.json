@@ -1,0 +1,1381 @@
+{
+  "seller": {
+    "name": "1点点（沪松店）",
+    "description": "小蓝心商家",
+    "deliveryTime": 47,
+    "score": 4.8,
+    "serviceScore": 4.5,
+    "foodScore": 4.8,
+    "rankRate": 99.2,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "bulletin": "亲爱的顾客您好！玛奇朵（奶霜）系列热的在配送过程中若产生摇晃，奶霜易沉淀或融化，融化后会出现未满杯。冰淇淋只能做成冰饮。请认真选择冰块甜度。",
+    "supports": "",
+    "avatar": "static/pic/shopicon.jpg",
+    "pics": [
+      "static/pic/mk.png",
+      "static/pic/dt.png"
+    ],
+    "infos": [
+      "地球中国魔都你猜区你猜路985弄211号",
+      "营业时间:10:00-20:30"
+    ]
+  },
+  "goods": [
+    {
+      "name": "热销",
+      "type": 1,
+      "foods": [
+        {
+          "name": "红茶拿铁",
+          "price": 16,
+          "oldPrice": "",
+          "description": "经典饮品，香醇牛奶与特选红茶，缺一不可，口感圆润顺滑。",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "拿铁",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "好喝惨了",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "很棒",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "不错",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/hcnt.jpg",
+          "image": "static/pic/item/hcnt.jpg"
+        },
+        {
+          "name": "茶冻柠檬芭乐绿",
+          "price": 15,
+          "oldPrice": "",
+          "description": "有柠檬，有红心芭乐，有Q弹茉香绿茶冻，红配绿的果茶组合，甜中带酸涩，酸中带茶香，茶香中带口感，多重享受。",
+          "sellCount": 188,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "有点酸了",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "还不错",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "找到宝藏了",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "info": "果茶",
+          "icon": "static/pic/item/cdnmbll.jpg",
+          "image": "static/pic/item/cdnmbll.jpg"
+        },
+        {
+          "name": "雪顶奶青",
+          "price": 15,
+          "oldPrice": "",
+          "description": "绵密雪顶覆盖四季奶青，茶香衬托浓郁奶香，丝滑顺口。加入带坚果香碧根果碎，口感圆润顺滑又带颗粒口感。",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "奶茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "喝点好的吧",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/xdnq.jpg",
+          "image": "static/pic/item/xdnq.jpg"
+        },
+        {
+          "name": "芭乐奶绿",
+          "price": 15,
+          "oldPrice": "",
+          "description": "香甜红心芭乐遇上茉莉香奶绿，果香与茶香、奶香交织，喝出果味奶茶新高度。",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "花果奶茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "难喝不推荐",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "试试别的吧",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "我觉得不错",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/blnl.jpg",
+          "image": "static/pic/item/blnl.jpg"
+        },
+        {
+          "name": "玫瑰奶乌",
+          "price": 14,
+          "oldPrice": "",
+          "description": "快来喝一杯兼具花香、茶香、奶香的玫瑰奶乌。",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "花果奶茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "不错，还可以",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "我女朋友很喜欢",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "甜甜的香香的",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/mgnw.jpg",
+          "image": "static/pic/item/mgnw.jpg"
+        },
+        {
+          "name": "葡萄柚绿",
+          "price": 15,
+          "oldPrice": "",
+          "description": "富含丰富维他命C的葡萄柚汁搭配茉莉绿茶。",
+          "sellCount": 91,
+          "rating": 100,
+          "info":"果茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "夏天来一杯酸酸甜甜的太棒了",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "很好喝",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "大爱",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/ptyl.jpg",
+          "image": "static/pic/item/ptyl.jpg"
+        },
+        {
+          "name": "奶绿",
+          "price": 13,
+          "oldPrice": "",
+          "description": "精选绿茶、茉莉花，古法窨制而成的茉莉绿茶，再选用黄金比例调制成茉香奶茶，喝一口芳香甘醇。",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "奶茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "好喝呀",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "便宜又好喝",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "茉莉香很重，太棒了",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/nl.jpg",
+          "image": "static/pic/item/nl.jpg"
+        },
+        {
+          "name": "杨枝甘露",
+          "price": 18,
+          "oldPrice": "",
+          "description": "双份芒果搭配椰奶，茉莉绿茶茶底再加上Q弹珍珠与茶冻双重口感，茶香清爽，芒果香甜，独家专属配方只给专属的你。",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "果茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "经典果然不会错",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "这家店我最喜欢这款了",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "很棒",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/yzgl.jpg",
+          "image": "static/pic/item/yzgl.jpg"
+        },
+        {
+          "name": "雪顶牛乳红茶",
+          "price": 20,
+          "oldPrice": "",
+          "description": "绵密雪顶覆盖经典饮品牛乳红茶，结合香醇牛奶与特选红茶，加入带坚果香碧根果碎，口感圆润顺滑又带颗粒口感。",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "雪顶超COOL",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "这个新品有点意思",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "奶味很足，果碎分量也够",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "这个奶茶还管饱哟，不错不错",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/xdnrhc.jpg",
+          "image": "static/pic/item/xdnrhc.jpg"
+        },
+        {
+          "name": "冰淇淋红茶",
+          "price": 16,
+          "oldPrice": "",
+          "description": "香草冰淇淋搭配精选红茶调配的奶茶，香草香、奶香与茶香交织，滑顺口感，冰凉清爽。经典喝法，四季皆宜。",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "奶茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "每年夏天必喝",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "太好喝啦",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "不错，还可以",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/bqlhc.jpg",
+          "image": "static/pic/item/bqlhc.jpg"
+        }
+      ]
+    },
+    {
+      "name": "雪顶超COOL",
+      "type": 2,
+      "foods": [
+        {
+          "name": "雪顶牛乳红茶",
+          "price": 20,
+          "oldPrice": "",
+          "description": "绵密雪顶覆盖经典饮品牛乳红茶，结合香醇牛奶与特选红茶，加入带坚果香碧根果碎，口感圆润顺滑又带颗粒口感。",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "雪顶超COOL",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "这个新品有点意思",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "奶味很足，果碎分量也够",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "这个奶茶还管饱哟，不错不错",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/xdnrhc.jpg",
+          "image": "static/pic/item/xdnrhc.jpg"
+        },
+        {
+          "name": "雪顶奶青",
+          "price": 15,
+          "oldPrice": "",
+          "description": "绵密雪顶覆盖四季奶青，茶香衬托浓郁奶香，丝滑顺口。加入带坚果香碧根果碎，口感圆润顺滑又带颗粒口感。",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "奶茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "喝点好的吧",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/xdnq.jpg",
+          "image": "static/pic/item/xdnq.jpg"
+        }
+      ]
+    },
+    {
+      "name": "花果奶茶",
+      "type": -1,
+      "foods": [
+        {
+          "name": "芭乐奶绿",
+          "price": 15,
+          "oldPrice": "",
+          "description": "香甜红心芭乐遇上茉莉香奶绿，果香与茶香、奶香交织，喝出果味奶茶新高度。",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "花果奶茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "难喝不推荐",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "试试别的吧",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "我觉得不错",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/blnl.jpg",
+          "image": "static/pic/item/blnl.jpg"
+        },
+        {
+          "name": "玫瑰奶乌",
+          "price": 14,
+          "oldPrice": "",
+          "description": "快来喝一杯兼具花香、茶香、奶香的玫瑰奶乌。",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "花果奶茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "不错，还可以",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "我女朋友很喜欢",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "甜甜的香香的",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/mgnw.jpg",
+          "image": "static/pic/item/mgnw.jpg"
+        }
+      ]
+    },
+    {
+      "name": "点口感",
+      "type": -1,
+      "foods": [
+        {
+          "name": "波霸奶茶",
+          "price": 13,
+          "oldPrice": "",
+          "description": "大颗的是波霸，小颗的是珍珠，一点点波霸和珍珠都来自自家工厂生产，精选优质木薯粉制成，品质把关更严谨，只为给你更好吃的波霸和珍珠，焦糖香气搭配奶茶鲸继续延续经典。",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "奶茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "味道还可以",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "一般般",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/bbnc.jpg",
+          "image": "static/pic/item/bbnc.jpg"
+        },
+        {
+          "name": "珍珠奶茶",
+          "price": 13,
+          "oldPrice": "",
+          "description": "大颗的是波霸，小颗的是珍珠，一点点波霸和珍珠都来自自家工厂生产，精选优质木薯粉制成，品质把关更严谨，只为给你更好吃的波霸和珍珠，焦糖香气搭配奶茶鲸继续延续经典。",
+          "sellCount": 29,
+          "rating": 100,
+          "info": "奶茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "便宜又好喝",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/zznc.jpg",
+          "image": "static/pic/item/zznc.jpg"
+        },
+        {
+          "name": "布丁奶茶",
+          "price": 17,
+          "oldPrice": "",
+          "description": "焦糖鸡蛋香气的布丁搭配奶茶，软Q滑嫩的口感，像喝一杯甜点～爱布丁又爱奶茶的朋友不容错过～",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "奶茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "布丁有点贵啦",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "挺好喝的",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/bdnc.jpg",
+          "image": "static/pic/item/bdnc.jpg"
+        }
+      ]
+    },
+    {
+      "name": "点奶茶",
+      "type": -1,
+      "foods": [
+        {
+          "name": "四季奶青",
+          "price": 13,
+          "oldPrice": "",
+          "description": "精选四季春茶，自带乌龙茶韵味与绿茶香气，再选用黄金比例调制成带清新茶香又顺滑的奶茶，喝一口回味无穷。",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "太好喝啦",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "不错，还可以",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/sjnq.jpg",
+          "image": "static/pic/item/sjnq.jpg"
+        },
+        {
+          "name": "奶绿",
+          "price": 13,
+          "oldPrice": "",
+          "description": "精选绿茶、茉莉花，古法窨制而成的茉莉绿茶，再选用黄金比例调制成茉香奶茶，喝一口芳香甘醇。",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "奶茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "好喝呀",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "便宜又好喝",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "茉莉香很重，太棒了",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/nl.jpg",
+          "image": "static/pic/item/nl.jpg"
+        },
+        {
+          "name": "乌龙奶茶",
+          "price": 13,
+          "oldPrice": "",
+          "description": "精选结合闽南乌龙茶与台式乌龙茶特色的代表作，再选用黄金比例调制成乌龙奶茶，喝一口味醇甘润。",
+          "sellCount": 28,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "好喝惨了",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "不错，还可以",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "很喜欢的奶茶",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/wlnc.jpg",
+          "image": "static/pic/item/wlnc.jpg"
+        }
+      ]
+    },
+    {
+      "name": "玛奇朵",
+      "type": -1,
+      "foods": [
+        {
+          "name": "红茶玛奇朵",
+          "price": 15,
+          "oldPrice": "",
+          "description": "绵密奶霜搭配精选红茶，先抿一口甜甜奶香，一杯可以喝到奶霜和红茶不同程度的混合，时而奶香，时而茶香。",
+          "sellCount": 3,
+          "rating": 100,
+          "info": "玛奇朵",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "玛奇朵不会错！！！",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/hcmqd.jpg",
+          "image": "static/pic/item/hcmqd.jpg"
+        },
+        {
+          "name": "奶茶玛奇朵",
+          "price": 18,
+          "oldPrice": "",
+          "description": "绵密奶霜搭配奶茶，先抿一口甜甜奶香，摇一摇就是高配版奶茶，献给喜爱重度奶香的你。",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "玛奇朵",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "比起红茶玛奇朵，我更喜欢这一款",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/ncmqd.jpg",
+          "image": "static/pic/item/ncmqd.jpg"
+        }
+      ]
+    },
+    {
+      "name": "点拿铁",
+      "type": -1,
+      "foods": [
+        {
+          "name": "红茶拿铁",
+          "price": 16,
+          "oldPrice": "",
+          "description": "经典饮品，香醇牛奶与特选红茶，缺一不可，口感圆润顺滑。",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "拿铁",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "好喝惨了",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "很棒",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "不错",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/hcnt.jpg",
+          "image": "static/pic/item/hcnt.jpg"
+        }
+      ]
+    },
+    {
+      "name": "点好茶",
+      "type": -1,
+      "foods": [
+        {
+          "name": "冰淇淋红茶",
+          "price": 16,
+          "oldPrice": "",
+          "description": "香草冰淇淋搭配精选红茶调配的奶茶，香草香、奶香与茶香交织，滑顺口感，冰凉清爽。经典喝法，四季皆宜。",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "茶饮",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "每年夏天必喝",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "太好喝啦",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "不错，还可以",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/bqlhc.jpg",
+          "image": "static/pic/item/bqlhc.jpg"
+        },
+        {
+          "name": "多多绿",
+          "price": 16,
+          "oldPrice": "",
+          "description": "养乐多乳酸菌加入茉香绿茶茶底，天然发酵奶香与茶香搭配，酸甜健康又好喝。",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "茶饮",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "差点意思",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/ddl.jpg",
+          "image": "static/pic/item/ddl.jpg"
+        },
+        {
+          "name": "四季春茶",
+          "price": 10,
+          "oldPrice": "",
+          "description": "精选四季春茶，自带乌龙茶韵味与绿茶香气，茶汤翠绿淡黄，茶韵柔顺悠长。",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "茶饮",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "难喝不推荐",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "好喝极了，茶味刚刚好",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "还不错",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/sjcc.jpg",
+          "image": "static/pic/item/sjcc.jpg"
+        },
+        {
+          "name": "茉莉绿茶",
+          "price": 10,
+          "oldPrice": "",
+          "description": "精选绿茶、茉莉花，古法窨制而成的茉莉绿茶，茶叶保留茉莉花特有的香气，醇厚回甘，韵味悠长。",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "茶饮",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "就是普通的绿茶味",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "夏天必配",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "一般般",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/mllc.jpg",
+          "image": "static/pic/item/mllc.jpg"
+        },
+        {
+          "name": "抹茶",
+          "price": 13,
+          "oldPrice": "",
+          "description": "使用一点点订制版纯抹茶粉泡制，传承传统抹茶制茶工艺来生产抹茶粉，茶汤翠绿，运动良伴。",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "茶饮",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "有点苦",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "啊啊啊啊啊，不好喝",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "抹茶味重，不错不错",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/mc.jpg",
+          "image": "static/pic/item/mc.jpg"
+        }
+      ]
+    },
+    {
+      "name": "点果茶",
+      "type": -1,
+      "foods": [
+        {
+          "name": "茶冻柠檬芭乐绿",
+          "price": 15,
+          "oldPrice": "",
+          "description": "有柠檬，有红心芭乐，有Q弹茉香绿茶冻，红配绿的果茶组合，甜中带酸涩，酸中带茶香，茶香中带口感，多重享受。",
+          "sellCount": 188,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 1,
+              "text": "有点酸了",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "还不错",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "找到宝藏了",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "info": "果茶",
+          "icon": "static/pic/item/cdnmbll.jpg",
+          "image": "static/pic/item/cdnmbll.jpg"
+        },
+        {
+          "name": "杨枝甘露",
+          "price": 18,
+          "oldPrice": "",
+          "description": "双份芒果搭配椰奶，茉莉绿茶茶底再加上Q弹珍珠与茶冻双重口感，茶香清爽，芒果香甜，独家专属配方只给专属的你。",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "果茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "经典果然不会错",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "这家店我最喜欢这款了",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "很棒",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/yzgl.jpg",
+          "image": "static/pic/item/yzgl.jpg"
+        },
+        {
+          "name": "葡萄柚绿",
+          "price": 15,
+          "oldPrice": "",
+          "description": "富含丰富维他命C的葡萄柚汁搭配茉莉绿茶。",
+          "sellCount": 91,
+          "rating": 100,
+          "info":"果茶",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "夏天来一杯酸酸甜甜的太棒了",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "很好喝",
+              "avatar": "static/pic/default.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1579281964000,
+              "rateType": 0,
+              "text": "大爱",
+              "avatar": "static/pic/default.jpg"
+            }
+          ],
+          "icon": "static/pic/item/ptyl.jpg",
+          "image": "static/pic/item/ptyl.jpg"
+        }
+      ]
+    },
+    {
+      "name": "用餐提醒",
+      "type": -1,
+      "foods": [
+        {
+          "name": "关于环保吸管",
+          "price": 99,
+          "oldPrice": "",
+          "description": "PLA环保吸管，冷、热饮皆适用。",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": "",
+          "icon": "static/pic/item/xg.jpg",
+          "image": "static/pic/item/xg.jpg"
+        },
+        {
+          "name": "关于保冷保温袋",
+          "price": 99,
+          "oldPrice": "",
+          "description": "点点保冷保温袋全新升级款，为您的饮品保持美味的温度。",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": "",
+          "icon": "static/pic/item/bz.jpg",
+          "image": "static/pic/item/bz.jpg"
+        },
+        {
+          "name": "关于奶霜分装",
+          "price": 99,
+          "oldPrice": "",
+          "description": "选择奶霜分装，品味更好的奶霜美味，同时饮品是满杯哦！",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": "",
+          "icon": "static/pic/item/fz.jpg",
+          "image": "static/pic/item/fz.jpg"
+        }
+      ]
+    }
+  ],
+  "ratings": [
+    {
+      "username": "3******c",
+      "rateTime": 1579281964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "不错,很好喝,我经常来这一家,非常赞,以后也会常来,强烈推荐.",
+      "avatar": "static/pic/default.jpg",
+      "recommend": [
+        "红茶拿铁",
+        "奶绿",
+        "葡萄柚绿",
+        "红茶玛奇朵",
+        "波霸奶茶"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1579281964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "deliveryTime": "",
+      "text": "服务态度不错",
+      "avatar": "static/pic/default.jpg",
+      "recommend": [
+        "波霸奶茶"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1579281964000,
+      "score": 3,
+      "rateType": 1,
+      "text": "默认好评",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1579281964000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心店铺",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1579281964000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "默认好评",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1579281964000,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "送货速度蜗牛一样",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1579281964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "很喜欢的奶茶店",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1579281964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "小料量给的还可以",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1579281964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 1,
+      "text": "默认好评",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1579281964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "孩子喜欢喝这家",
+      "avatar": "static/pic/default.jpg",
+      "recommend": [
+        "波霸奶茶"
+      ]
+    },
+    {
+      "username": "3******3",
+      "rateTime": 1579281964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "挺好喝的",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "t******b",
+      "rateTime": 1669181964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 1,
+      "text": "默认好评",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "f******c",
+      "rateTime": 1579281964000,
+      "deliveryTime": 15,
+      "score": 5,
+      "rateType": 0,
+      "text": "送货速度很快",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "k******3",
+      "rateTime": 1569161264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "默认好评",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "u******b",
+      "rateTime": 1559151964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "下雨天给快递小哥点个赞",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "s******c",
+      "rateTime": 1669141964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "z******3",
+      "rateTime": 1569131264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "喝了还想再喝",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "n******b",
+      "rateTime": 1569121964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "包装给的不对",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "m******c",
+      "rateTime": 1569111964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "好喝",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "l******3",
+      "rateTime": 1569101264000,
+      "deliveryTime": 40,
+      "score": 5,
+      "rateType": 0,
+      "text": "还不错",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "3******o",
+      "rateTime": 1569091964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 1,
+      "text": "默认好评",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "3******p",
+      "rateTime": 1569081964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "很喜欢的奶茶",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "o******k",
+      "rateTime": 1569071264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "默认好评",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1569061964000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "默认好评",
+      "avatar": "static/pic/default.jpg",
+      "recommend": []
+    }
+  ]
+}
