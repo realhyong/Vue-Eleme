@@ -36,5 +36,5 @@ $ npm run dev
 2. be familiar with and use `Axios` to make HTTP requests and use the data returned
 3. use `Vuex` to communicate with data so that public data or data between different components can be processed
 4. use `Vue-Router` to create single-page applications that can update content without refreshing the page
-5. learn how to do `Communication between components`.
+5. learn how to do `Communication between components`
 6. learn how to create and maintain a complete Vue project
