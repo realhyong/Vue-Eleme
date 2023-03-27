@@ -26,7 +26,7 @@
 ## 使用方法
 ``` bash 
 # 安装项目所需依赖
-$ npm install<br/>
+$ npm install
  
 # 打开项目于 localhost:8088
 $ npm run dev
