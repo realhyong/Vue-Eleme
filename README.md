@@ -15,20 +15,20 @@ This repository contains all the code and files needed to reproduce the Eleme pa
 - `src/` : The main folder for operations, all components, App.vue are operated in this folder.
 - `static/` : A folder for static resources, resources that will not change, including data, images, etc.
 - `index.html` : The entry file for the vue project, usually introduced into App.vue.
-
-
+<br/>
 - `.baberlrc` : The configuration file for Babel(configuration file).
 - `.editorconfig` : Ensures that the project code is formatted consistently (configuration file).
 - `.eslintignore` : Causes ESLint to ignore specific files and directories (configuration file).
 - `.eslintrc.js` : Configures ESLint (configuration file).
 
 ## Usage
-> Install the dependencies for the project
+``` bash 
+# Install the dependencies for the project
 > $ npm install
-> 
-> Open the project at localhost:8088
-> $ npm run dev
-<br/>
+
+# Open the project at localhost:8088
+$ npm run dev
+```
 
 ## Studying
 1. understand the layout composition of Vue and the basics of writing components
