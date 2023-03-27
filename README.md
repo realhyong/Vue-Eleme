@@ -16,7 +16,7 @@ This repository contains all the code and files needed to reproduce the Eleme pa
 - `static/` : A folder for static resources, resources that will not change, including data, images, etc.
 - `index.html` : The entry file for the vue project, usually introduced into App.vue.
 
-===
+
 - `.baberlrc` : The configuration file for Babel(configuration file).
 - `.editorconfig` : Ensures that the project code is formatted consistently (configuration file).
 - `.eslintignore` : Causes ESLint to ignore specific files and directories (configuration file).

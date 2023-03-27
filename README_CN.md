@@ -17,7 +17,7 @@
 - `static/` : 存放静态资源，放置不会变动的资源，包括数据、图片等。
 - `index.html` : vue项目的入口文件，一般引入App.vue。
 
-===
+
 - `.baberlrc` : Babel的配置文件（配置文件）。
 - `.editorconfig` : 保证项目代码格式的统一（配置文件）。
 - `.eslintignore` : 使得ESLint去忽略特定的文件和目录（配置文件）。
@@ -25,7 +25,7 @@
 
 ## 使用方法
 > 安装项目所需依赖
-> $ npm install
+> $ npm install<br/>
 > 
 > 打开项目于 localhost:8088
 > $ npm run dev
