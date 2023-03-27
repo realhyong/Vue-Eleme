@@ -1,4 +1,4 @@
-# COVID-19 宣传网站
+# 基于Vue的饿了么页面复现
 
 简体中文（当前）<br/>
 [English](README.md)
