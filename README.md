@@ -4,7 +4,7 @@
 English(Current)
 
 ## Introduction
-This repository contains all the code and files needed to reproduce the Elemo page. Suitable for vue beginners, exploring component layouts and calls for front-end learner.
+This repository contains all the code and files needed to reproduce the Eleme page. Suitable for vue beginners, exploring component layouts and calls for front-end learner.
 
 **Note**: This site was created by me through a GitHub open source project and third party video learning. Please understand!
 
